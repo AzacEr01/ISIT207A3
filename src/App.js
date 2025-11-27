@@ -679,7 +679,7 @@ function ContactPage() {
             <span>contact@petheaven.org</span>
           </div>
           <div className="contact-item">
-            <span>📞 +65 92302250</span>
+            <span>📞 +65 9230 2250</span>
           </div>
           <div className="contact-item">
             <span>📍 851 Hougang Central, Block 851, Singapore 530851</span>
