@@ -679,10 +679,10 @@ function ContactPage() {
             <span>contact@petheaven.org</span>
           </div>
           <div className="contact-item">
-            <span>📞 +65 1234 5678</span>
+            <span>📞 +65 9230 2250</span>
           </div>
           <div className="contact-item">
-            <span>📍 123 Pet Street, Singapore 123456</span>
+            <span>📍 851 Hougang Central, Block 851, Singapore 530851</span>
           </div>
         </div>
       </div>
